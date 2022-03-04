@@ -1,4 +1,4 @@
-[![Header](https://github.com/peachblacky/peachblacky/blob/main/gh-bg.jpg "Header")]
+![Header](https://github.com/peachblacky/peachblacky/blob/main/gh-bg.png "Header")
 ### Hi there 👋
 
 <!--
