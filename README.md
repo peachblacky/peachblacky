@@ -26,3 +26,5 @@ My name is Rostislav Nikolaev and i am a student from Novosibirk State Universit
 ![](https://img.shields.io/badge/PostgreSQL-informational?style=flat_square&logo=PostgreSQL&textColor=white&logoColor=white&color=7A59FC)
 ![](https://img.shields.io/badge/SpringBoot-informational?style=flat_square&logo=SpringBoot&textColor=white&logoColor=white&color=7A59FC)
 ![](https://img.shields.io/badge/Spring-informational?style=flat_square&logo=Spring&textColor=white&logoColor=white&color=7A59FC)
+![](https://img.shields.io/badge/Jupyter-informational?style=flat_square&logo=Jupyter&textColor=white&logoColor=white&color=7A59FC)
+![](https://img.shields.io/badge/Matplotlib-informational?style=flat_square&logo=Matplotlib&textColor=white&logoColor=white&color=7A59FC)
