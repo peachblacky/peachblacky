@@ -1,7 +1,7 @@
 <!-- ![Header](https://github.com/peachblacky/peachblacky/blob/main/gh-bg.png "Header") -->
 # Hello!
-My name is Rostislav Nikolaev and i am a student from Novosibirk State University. A bit of information about me:
-- 🟠 My main studying topic - Machine Learning and Neural Networks, especially in field of Natural Language Processing.
+My name is Rostislav Nikolaev and i am a software developer from Novosibirk State University. A bit of information about me:
+- 🟠 My main studying topic - Machine Learning, especially in field of Natural Language Processing.
 - 🔵 Also do backend development, basically using Java.
 - 🟣 Linguistic is my part-time passion, constantly learning new languages.
 - 🟤 Open to any job in above mentioned fields.
