@@ -1,5 +1,5 @@
 <!-- ![Header](https://github.com/peachblacky/peachblacky/blob/main/gh-bg.png "Header") -->
-# Hello, my friend! <img src="https://github.com/peachblacky/peachblacky/blob/main/giphy.gif" width="60px">
+# Hello!
 My name is Rostislav Nikolaev and i am a student from Novosibirk State University. A bit of information about me:
 - 🟠 My main studying topic - Machine Learning and Neural Networks, especially in field of Natural Language Processing.
 - 🔵 Also do backend development, basically using Java.
